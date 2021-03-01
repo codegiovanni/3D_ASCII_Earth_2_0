@@ -10,11 +10,11 @@ HEIGHT = 1080
 
 R = 300
 R_moon = R / 3.7
-MAP_WIDTH = 139
-MAP_HEIGHT = 34
+MAP_WIDTH = 139 # enter 1 less (for example enter 139 if you have 140)
+MAP_HEIGHT = 34 # enter 1 less
 
-MAP_WIDTH_MOON = 49
-MAP_HEIGHT_MOON = 15
+MAP_WIDTH_MOON = 49 # enter 1 less
+MAP_HEIGHT_MOON = 15 # enter 1 less
 
 black = (0, 0, 0)
 green = (0, 255, 0)
